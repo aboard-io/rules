@@ -1,6 +1,6 @@
-# Aboard Rules
+# Aboard Content Rules
 
-Aboard is a platform that allows anyone to create content for either personal, private or public use. When a space or any content within a space is shared publicly, users of Aboard must adhere to the Aboard Rules.
+Aboard is a platform that allows anyone to create content for either personal, private or public use. When a board or any content within a board is shared publicly, users of Aboard must adhere to the Aboard Rules.
 
 To maintain a safe and welcoming environment for a wide range of people to engage in the platform, we prohibit certain conduct.
 
@@ -31,7 +31,7 @@ Aboard exists to share and discuss useful information and ideas. We don’t tole
 - Bullying, threatening, mocking, or shaming someone, or posting things likely to encourage others to do so
 - Engaging in a repetitive or targeted campaign of harassment against someone or a group of people
 - Using derogatory language, racial slurs, or obscenities to disparage or attack someone or a group of people
-Using Aboard features like making a space public, adding cards, commenting on a card in a way that attempts to or does annoy or harass someone, or to draw inorganic attention to your content on Aboard
+Using Aboard features like making a board public, adding cards, commenting on a card in a way that attempts to or does annoy or harass someone, or to draw inorganic attention to your content on Aboard
 - Reviewing businesses or products in a gratuitously harmful or abusive manner
 
 ### Privacy and Reputation
@@ -88,7 +88,7 @@ Performing a disproportionately large number of interactions, particularly by au
 
 Repeatedly using responses or other interactions as a method of promotion or marketing
 
-For each of these behaviors, when we talk about “content,” we mean not only spaces, stacks or cards but also any other feature that allows you to add your own text or media. When we talk about “interactions,” we mean any feature that allows one user to interact with another person or post.
+For each of these behaviors, when we talk about “content,” we mean not only boards, stacks or cards but also any other feature that allows you to add your own text or media. When we talk about “interactions,” we mean any feature that allows one user to interact with another person or post.
 
 ### Copyright and trademark infringement
 
